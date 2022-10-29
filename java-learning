@@ -1,0 +1,24 @@
+public class Main
+{
+	public static void main(String[] args) {
+	   // int a=544231;
+	    //long b=566548158484l;
+	    //System.out.println(a);
+	    //System.out.println(b);
+	    
+	   // float f=1456.89025488f;
+	   // double d=1456.78956151;
+	    //System.out.println(f);
+	    //System.out.println(d);
+	    
+	   // String s="fnjfbgjhfgbjfhirekjfgbilfjwiufhnjdbpwf";
+	   // char c=' ';
+	    //System.out.println(s);
+	    //System.out.println(c);
+	    
+	   
+	}
+}
+
+
+=======================================================================================
