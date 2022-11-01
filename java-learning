@@ -44,3 +44,41 @@ public class Main
 ==============================================================================================
 type casting(forcefully converssion one ddataa type to another data type)
 
+//double d=sc.nextDouble();
+		//System.out.println(d);
+		
+	    //boolean h=sc.nextBoolean();
+		//System.out.println(h);
+		
+		//next will be followeb by read only single word
+		//String s=sc.next();
+	    //System.out.println(s);
+	    
+	    //nextline willl be folloed by entire the word
+	    //String h=sc.nextLine();
+		//System.out.println(h);
+		//char c=sc.next().charAt(0);
+		//System.out.println(c);
+		
+		
+		//int a=(int) "rethik";
+		//System.out.println(a);
+		
+		//float f=120.15f;
+		//double d=(double) f;
+		//System.out.println(d);
+		
+		int  a=15;
+		   if (a==5);{
+		       System.out.println("hello word");
+		   }
+		   //else {
+		    //System.out.println("lololololo");
+		   //}
+		   
+	}
+}
+
+
+
+
