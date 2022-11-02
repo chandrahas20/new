@@ -110,5 +110,7 @@ logical opeartor
 	if(a>0 || a<=0 && a!=5)
 	
 	!(not)  -->  
+	!false= true
+	!true= false
 
 
