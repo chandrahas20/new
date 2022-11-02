@@ -112,5 +112,16 @@ logical opeartor
 	!(not)  -->  
 	!false= true
 	!true= false
-
+========================================
+int a=sc.nextInt():
+if(a>=0){
+  if(a<=0){
+   System.out.println("djnjfd")
+   else{
+   	System.out.println("dnjdf")
+	}
+    :
+    else:
+    	System.out.println("mdkndf")
+     
 
