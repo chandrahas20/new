@@ -95,8 +95,20 @@ type casting(forcefully conversion one data type to another data type)
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>..........>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 logical opeartor
-	&&(and)
-	||(or)
-	!(not)
+	&&(and)  ----> comprision
+	              if (a>=0 && a<=0)
+
+	    true && true =t
+	    T && f= f
+	    f && t=f
+	    f && f= f
+	
+	|| -->  t || t =t
+		f || t=t
+		T || f =t
+		f || f=f
+	if(a>0 || a<=0 && a!=5)
+	
+	!(not)  -->  
 
 
