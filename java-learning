@@ -42,7 +42,13 @@ public class Main
 	}
 }
 ==============================================================================================
-type casting(forcefully converssion one ddataa type to another data type)
+type casting(forcefully conversion one data type to another data type)
+
+->
+   int converted into long
+   long converted into int
+   
+   ->  
 
 //double d=sc.nextDouble();
 		//System.out.println(d);
@@ -78,6 +84,15 @@ type casting(forcefully converssion one ddataa type to another data type)
 		   
 	}
 }
+========================================================================
+	boolean s= 5== 5;
+		if (s){
+	        System.out.println("hello");
+		}
+		else {
+		    System.out.println("eddkf");
+		}
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>..........>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
 
