@@ -94,6 +94,9 @@ type casting(forcefully conversion one data type to another data type)
 		}
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>..........>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-
+logical opeartor
+	&&(and)
+	||(or)
+	!(not)
 
 
