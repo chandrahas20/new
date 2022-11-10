@@ -135,4 +135,34 @@ float
 Double
 chat
 ==========================================================================
-
+int i=0;
+while (True){
+	System.out.println("Hello")
+	i=i+1;
+}
+===================================================
+while runs only true condition, does not runs on if condition is false
+do while runs if condition is fails it will be runs
+=================================================================
+int i=10;
+do {
+  System.out.println("Hello")
+  i=i+1;
+  }
+  while(i<10);
+  
+  ===================================================================================
+  int a=5;
+  System.out.println(a++)
+  system.out.printn(a)
+  pre Increment --->++a ---Increase and use
+  post Increment -->a++ --usse and Them increase
+  
+  ============================================================
+ array stores  data of a ssinge data type in a variabe
+ int a[]={1,2,3,4,5,6,7,8,9}
+ int n=a.length():
+ for(int i=0;i<n;i++){
+ System.out.printn(a[i])
+ ===================================================================
+ 
